@@ -44,6 +44,14 @@
         "color": "rgb(0, 127, 255)"
     },
     {
+        "text": "Angular",
+        "color": "rgb(220,0,0)"
+    },
+    {
+        "text": "Angular Material",
+        "color": "rgb(255,152,0)"
+    },
+    {
         "text": "MySQL",
         "color": "rgb(64, 126, 163)"
     },
@@ -75,13 +83,5 @@
     {
         "text": "PostgreSQL",
         "color": "rgb(49,97,146)"
-    },
-    {
-        "text": "Angular",
-        "color": "rgb(220,0,0)"
-    },
-    {
-        "text": "Angular Material",
-        "color": "rgb(255,194,104)"
     }
 ]
